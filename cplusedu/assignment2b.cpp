@@ -1,3 +1,8 @@
+/*
+A program in which you define a struct for student information, which includes the following fields: name (an array of char), 
+id (unsigned int) and grade (unsigned int). Define an array of 5 locations, which includes student information. First, sort the content of the array in ascending 
+order according to student grade and then print out the content of the array.
+*/
 #include <iostream>
 #include <string>
 using namespace std;
