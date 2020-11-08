@@ -1,6 +1,6 @@
 /*
-A program, which receives two numbers and prints to the standard output device 
-the all prime numbers between the given numbers
+A program which prints the first 15 numbers of the following series:
+-1 0 -3 -2 -5 -4 -7...
 */
 #include <iostream>
 using namespace std;
