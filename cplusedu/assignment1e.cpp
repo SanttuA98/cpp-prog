@@ -1,3 +1,7 @@
+/*
+A program, which receives two numbers and prints to the standard output device 
+the all prime numbers between the given numbers.
+*/
 #include <iostream>
 
 using namespace std;
