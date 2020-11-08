@@ -1,3 +1,8 @@
+/*
+A program, which reads values related to the activity of a number of students and prints whether student has passed 
+the course and also his/her grade to the standard output. In this program you define a struct
+
+*/
 #include <iostream>
 #include <string>
 using namespace std;
