@@ -1,5 +1,7 @@
-//A program, which receives two numbers and prints to the standard output 
-//device the sum of numbers between the given numbers
+/*
+A program which prints the first 15 numbers of the following series:
+1 1 1 3 5 9 17...
+*/
 #include <iostream>
 using namespace std;
 
