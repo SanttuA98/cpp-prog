@@ -1,3 +1,7 @@
+/*
+A program, which asks and reads five names from standard input device (keyboard) and then sorts the names in ascending 
+alphabetic order and prints them to the standard output device (console).
+*/
 #include <iostream>
 #include <set>
 #include <algorithm>
